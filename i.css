@@ -1,0 +1,35 @@
+*{
+    margin: auto;
+    text-align: center;
+    
+}
+h1{
+    padding: 23px;
+}
+
+.btn-container{
+    display: flex;
+    height: 473px;
+    width: 473px;
+    flex-wrap: wrap;
+    padding: 2.5rem;
+    
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+}
+.pink{
+    background-color: palevioletred;
+}
+.blue{
+    background-color: rgb(42, 187, 223);
+}
+.orange{
+    background-color: rgb(236, 107, 56);
+}
+.light-blue{
+    background-color: rgb(160, 160, 252);
+}
