@@ -33,3 +33,10 @@ h1{
 .light-blue{
     background-color: rgb(160, 160, 252);
 }
+
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: green;
+}
